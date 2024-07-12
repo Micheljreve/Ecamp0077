@@ -1,0 +1,37 @@
+.arsenal-sc-regular {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .arsenal-sc-bold {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .arsenal-sc-regular-italic {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .fondopatron {
+    background-image: url(iglesia.jpg);
+  }
+  
+  .arsenal-sc-bold-italic {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  .tituloprincipal{
+    color: orange;
+  }
+  #Contenedor h2{
+    color: aquamarine;
+}
+#contenedor {
+    background-image: url(mesita.jpg);
+}

@@ -1,0 +1,28 @@
+
+p{
+   background-color: antiquewhite;
+   border: 1px solid black;
+   padding: 20px;
+   display: inline;
+   
+}
+
+.span{ 
+    background-color: rgb(78, 165, 241);
+    padding: 1px; 
+    margin: 20px ;
+    display: block;
+}
+.first{
+    margin-bottom: ;
+
+}
+.second{
+    margin-top: ;
+}
+
+section{
+    background-color: aqua;
+    margin-auto;
+    z-index: index -50;
+}
