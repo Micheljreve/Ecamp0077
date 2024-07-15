@@ -17,11 +17,16 @@
 
 
 
-@media only screen and (max-white:480px)
-
-display:
 
 wrapp
+
+@media only screen and (min-white:480px){
+    .lang-1
+}
+
+@media only screen and (max-Whithe:480px){
+    
+}
 
 
 
