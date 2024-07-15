@@ -6,18 +6,20 @@
 }
 
 .col{
-    display: ;
-    vertical-align: ;
-    
+    display: inline-block ;
+    vertical-align: top ;
+    margin: 0px 0px;
 }
 
 .row{
-    margin: 20px;
-
+    margin: 20px;    
 }
 
 
 
+@media only screen and (max-white:480px)
+
+display:
 
 wrapp
 
@@ -26,17 +28,25 @@ wrapp
 #header {
     height:150px;
     background:green;
+
+
 }
 #navegation {
     height: 300px ;
     background-color:blue;
+    margin: ;
+    padding: ;
 }
 #planta {
     background-color:red;
     padding: 12px;
+    margin: ;
+    padding: ;
+
 }
 #madera {
     height: 120px;
     background-color:purple;
     margin-top: 20px;
+
 }
